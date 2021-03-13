@@ -31,7 +31,7 @@ Os usuários devem ser capazes de:
 
 ### Links
 
-- URL do site ao vivo: [Link](https://julioalves-dev.github.io/interactive-pricing-component-main/)
+- URL do site ao vivo: [Link](https://julioalves-dev.github.io/componente-de-preco-interativo/)
 
 ## Processo
 
