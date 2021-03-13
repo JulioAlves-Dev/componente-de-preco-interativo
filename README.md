@@ -45,4 +45,4 @@ Os usuários devem ser capazes de:
 
 - Frontend Mentor - [@JulioAlves-Dev](https://www.frontendmentor.io/profile/JulioAlves-Dev)
 - Twitter - [@JulioAlv35](https://twitter.com/JulioAlv35)
-- Linkedin - [Julio Alves](linkedin.com/in/julio-alves-0119b01a6)
+- Linkedin - [Julio Alves](https://www.linkedin.com/in/julio-alves-0119b01a6/)
