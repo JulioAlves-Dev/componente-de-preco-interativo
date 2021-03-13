@@ -1,0 +1,74 @@
+<!DOCTYPE html>
+<html lang="pt-br">
+  <head>
+    <meta charset="UTF-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <link
+      rel="icon"
+      type="image/png"
+      sizes="32x32"
+      href="./images/favicon-32x32.png"
+    />
+    <link rel="preconnect" href="https://fonts.gstatic.com" />
+    <link
+      href="https://fonts.googleapis.com/css2?family=Manrope:wght@600;800&display=swap"
+      rel="stylesheet"
+    />
+    <link rel="stylesheet" href="./assets/css/style.css" />
+    <title>Frontend Mentor | Componente de preço interativo</title>
+  </head>
+  <body>
+    <div class="container">
+      <header>
+        <h1 class="header-title">Preços simples com base no tráfego</h1>
+        <p class="header-text">
+          Inscreva-se para nosso teste de 30 dias. Não é necessário cartão de
+          crédito.
+        </p>
+      </header>
+      <main>
+        <div class="one-part">
+          <div class="views-and-price">
+            <div class="qt-views">100K PAGEVIEWS</div>
+            <div class="price-for-month">
+              <strong>...</strong><span> / mês</span>
+            </div>
+          </div>
+          <div class="bar-price">
+            <input type="range" name="preco" id="preco" value="0" step="25" />
+          </div>
+          <div class="discount-price">
+            <span class="month-billing">Faturamento Mensal</span>
+            <label class="switch">
+              <input type="checkbox" />
+              <span class="slider round"></span>
+            </label>
+            <span class="year-billing">Faturamento Anual</span>
+            <div class="year-discount">25% de desconto</div>
+          </div>
+        </div>
+        <div class="two-part">
+          <div class="benefits-and-start">
+            <ul>
+              <li>Sites ilimitados</li>
+              <li>100% de propriedade de dados</li>
+              <li>Relatórios de e-mail</li>
+            </ul>
+            <button>Comece meu teste</button>
+          </div>
+        </div>
+      </main>
+    </div>
+    <div class="attribution">
+      Desafio do Frontend Mentor
+      <a href="https://www.frontendmentor.io?ref=challenge" target="_blank"
+        >Frontend Mentor.</a
+      >
+      Codificado por
+      <a href="https://github.com/JulioAlves-Dev" target="_blank"
+        >Julio Alves.</a
+      >
+    </div>
+    <script src="./assets/js/script.js"></script>
+  </body>
+</html>
