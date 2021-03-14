@@ -2,8 +2,6 @@
 
 Esta é uma solução para o [desafio do componente de preço interativo no Frontend Mentor.](https://www.frontendmentor.io/challenges/interactive-pricing-component-t0m8PIyY8) Os desafios do Frontend Mentor ajudam você a melhorar suas habilidades de codificação ao construir projetos realistas.
 
-Esta é uma solução para o desafio do componente de preço interativo no Frontend Mentor.
-
 ## Índice
 
 - [Visão geral](#visão-geral)
